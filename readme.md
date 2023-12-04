@@ -1,7 +1,5 @@
 # Medical Summarization using T5 LLM
 
-![Project Image/Logo]
-
 ## Overview
 
 This project focuses on utilizing the T5 LLM through Hugging Face's Transformer library to generate concise and accurate summaries of medical texts. Leveraging AWS Sagemaker and Lambda, the model was deployed, enabling seamless summarization of medical documents at scale.
